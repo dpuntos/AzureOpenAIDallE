@@ -12,5 +12,5 @@ The function receives the description. Finally, the generated image by Dall·E i
 </p>
 
 > [!NOTE]
-> - Azure Open AI DALL.E playground is in Preview mode.
+> - Azure Open AI DALL·E playground is in Preview mode.
 > - Azure account must have access to Azure OpenAI services.
