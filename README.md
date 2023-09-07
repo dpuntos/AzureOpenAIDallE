@@ -11,6 +11,11 @@ The function receives the description. Finally, the generated image by Dall·E i
   <img src="../master/sample_img.png">
 </p>
 
+## Diagram
+<p align="center">
+  <img src="../master/Diagram.png">
+</p>
+
 > [!NOTE]
 > - Azure Open AI DALL·E playground is in Preview mode.
 > - Azure account must have access to Azure OpenAI services.
